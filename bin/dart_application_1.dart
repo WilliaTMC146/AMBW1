@@ -13,6 +13,5 @@ void shape1(int n) {
 
 void shape2() {}
 void main(List<String> arguments) {
-  //shape1(5);
-  stdout.write("clara clarissa");
+  shape1(5);
 }
